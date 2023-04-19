@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frbarb
 - 👀 I’m interested in DevOps | Data Science | Geolocation | Wireless | 3G 4G 5G | BI
-- 🌱 I’m currently learning Computer Science in algoexpert
+- 🌱 I’m currently practicing coding in python and node.js
 - 💞️ I’m looking to collaborate on answering questions
 - 📫 How to reach me send me a message on linkedin @barbosafelipe
 
