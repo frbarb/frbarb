@@ -1,8 +1,51 @@
-- 👋 Hi, I’m @frbarb
-- 👀 I’m interested in DevOps | Data Science | Geolocation | Wireless, Networks and its Protocols | 3G 4G 5G | BI
-- 🌱 I’m currently improving my coding and CS skills, mostly in Python, node.js, Power Shell and Shell Script
-- 💞️ I’m looking to collaborate on projects or answering questions
-- 📫 How to reach me send me a message on linkedin @barbosafelipe
+Hi, I’m Felipe 👋
+
+Software & Cloud Engineer | GCP | Backend | DevOps | Data Engineering
+
+I build cloud-native applications, SaaS products, APIs and automation solutions, with a strong focus on solving real-world business and infrastructure problems.
+
+My background combines software engineering, cloud infrastructure, data engineering and mobile networks, including experience with large-scale telecom environments.
+
+🚀 What I’m working on
+
+* Building and deploying SaaS applications
+* Backend development with Python
+* REST APIs and third-party integrations
+* Cloud architecture on Google Cloud Platform
+* Containerized applications with Docker & Cloud Run
+* PostgreSQL / SQL and data-driven applications
+* Workflow and business process automation
+* AI-assisted applications and integrations
+
+☁️ Cloud & Engineering
+
+Python • GCP • Cloud Run • Docker • PostgreSQL • SQL • REST APIs • Git • Linux • PowerShell • CI/CD
+
+📡 Background
+
+I also have extensive experience with Mobile Networks and Telecommunications, including:
+
+3G • 4G • 5G • Wireless Networks • Network Protocols • Data Engineering • Automation
+
+This combination of software + cloud + infrastructure + telecom allows me to approach problems from both the application and infrastructure perspectives.
+
+🎯 Current focus
+
+I’m currently focused on building production-ready SaaS products and cloud solutions, while exploring consulting and freelance opportunities involving:
+
+* Backend & API development
+* Google Cloud Platform
+* Cloud architecture and migrations
+* Automation
+* Data engineering
+* SaaS development
+* System integrations
+
+📫 Let’s connect
+
+LinkedIn: @barbosafelipe
+
+I’m open to collaborating on interesting projects and helping businesses turn manual processes and technical problems into scalable software solutions.
 
 <!---
 frbarb/frbarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
