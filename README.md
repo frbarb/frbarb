@@ -1,6 +1,6 @@
 Hi, I’m Felipe 👋
 
-Software & Cloud Engineer | GCP | Backend | DevOps | Data Engineering
+AI, Data and Cloud Solution Architect | GCP | Backend | DevOps | Data Engineering
 
 I build cloud-native applications, SaaS products, APIs and automation solutions, with a strong focus on solving real-world business and infrastructure problems.
 
